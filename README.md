@@ -43,6 +43,7 @@ This analysis helps in:
 * Python
 * Pandas, NumPy
 * Matplotlib, Seaborn
+* plotly.express 
 * Excel (Dataset)
 
 This project demonstrates practical data analysis, KPI tracking, and visualization skills commonly used in real-world business and analytics roles.
