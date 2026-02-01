@@ -6,7 +6,10 @@
 
 This project focuses on analyzing Swiggy food delivery data to gain meaningful business insights related to sales performance, customer behavior, and regional trends. The goal is to transform raw order-level data into clear, actionable insights that can help stakeholders understand revenue patterns, customer satisfaction, and operational performance.
 
-The dataset includes key attributes such as order dates, sales amount (₹), ratings, food type (Veg / Non-Veg), city, state, and order volume. Using **Python**, the data is cleaned, processed, and analyzed with libraries like **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**. Missing values, incorrect data types, and inconsistencies are handled to ensure accurate analysis.
+The dataset includes key attributes such as order dates, sales amount (₹), ratings, food type (Veg / Non-Veg), city, state, and order volume. Using **Python**, the data is cleaned, processed, and analyzed with libraries like **Pandas**, **NumPy**, **Matplotlib**, **Seaborn** and Plotly.Express. Missing values, incorrect data types, and inconsistencies are handled to ensure accurate analysis.
+
+## 📁 Dataset
+
 
 ### 🔍 Key Business KPIs Analyzed
 
