@@ -13,7 +13,8 @@ The dataset includes key attributes such as order dates, sales amount (₹), rat
 [Swiggy Excel Data]("Dataset/swiggy_data.xlsx")
 
 ## Direct Project File
-[Swiggy Sales Analyis Project]("Swiggy Sales Analysis.ipynb")
+
+<a href="https://github.com/harshgholap05/Uber-Trip-Analysis-Dashboard/blob/main/Location%20ID.xlsx">**Swiggy Sales Analyis Project**</a>
 
 ## 🔍 Key Business KPIs Analyzed
 
